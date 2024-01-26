@@ -11,7 +11,7 @@ namespace SigFinder
         {
             if (args.Length == 0)
             {
-                Console.WriteLine("Usage: SigFinder.exe <directoryPath> [-ignore <stringToIgnore1>,<stringToIgnore2>,...] [-recursive] [-domain <domain>]");
+                Console.WriteLine("Usage: SigFinder.exe <directoryPath> [-ignore <string1>,<string2>,...] [-recursive] [-domain <domain>]");
                 return;
             }
 
