@@ -1,6 +1,6 @@
 # SigFinder
 
-Identify binaries with Authenticode digital signatures signed to an internal CA/domain. Useful for enumerating Windows directory paths referenced in WDAC policies or searching for internal applications.
+Identify binaries with Authenticode digital signatures signed to an internal CA/domain. Useful for enumerating Windows directory paths referenced in WDAC policies or searching for internal LOB applications.
 
 ```
 C:\Tools> SigFinder.exe
